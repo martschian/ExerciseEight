@@ -1,0 +1,17 @@
+body {
+  background-color: #82442d;
+  color: moccasin;
+}
+
+div p {
+  color: whitesmoke;
+}
+.card,
+.card p {
+  color: #222;
+}
+
+footer div {
+  background-color: #684444;
+  color: moccasin;
+}
